@@ -2,4 +2,7 @@ Testing..
 Testing..
 nhanh2
 master
+<<<<<<< HEAD
 
+=======
+>>>>>>> nhanh2
